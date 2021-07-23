@@ -8,3 +8,19 @@
 ARSEN-79/ARSEN-79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<html>
+  <body>
+    <nav>
+      <div>
+        <h1>ARSEN</h1>
+      </div>
+      <div>
+        <ul>
+          <li><a href="home.html">Home</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </div>
+    </nav>
+  </body>
+</html>
