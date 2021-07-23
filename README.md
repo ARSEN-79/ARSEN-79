@@ -11,17 +11,17 @@ You can click the Preview link to take a look at your changes.
 <html lang="en">
   <body>
     <nav>
-      <div>
+      <div class="logo">
         <h1>ARSEN</h1>
       </div>
-      <div>
+      <div class="menu">
         <ul>
           <li><a href="home.html">Home</a></li>
           <li><a href="contact.html">Contact</a></li>
           <li><a href="about.html">About</a></li>
         </ul>
       </div>
-      <div>
+      <div class="burger">
         <div class="line1"></div>
         <div class="line2"></div>
         <div class="line3"></div>
