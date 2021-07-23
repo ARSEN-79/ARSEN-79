@@ -21,6 +21,11 @@ You can click the Preview link to take a look at your changes.
           <li><a href="about.html">About</a></li>
         </ul>
       </div>
+      <div>
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+      </div>
     </nav>
   </body>
 </html>
